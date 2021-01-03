@@ -87,9 +87,9 @@ public class CreateAccount {
          
          driver.findElement(By.id("submitAccount")).click();
          
+        
          
-         
-         
+         driver.quit();
         
         
         
